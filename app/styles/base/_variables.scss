@@ -1,7 +1,14 @@
 // Colors
 $black: black;
 $white: white;
+$light-blue: #B5D0E2;
+$darker-blue: #2099E8;
 
 // Navigation colors
 $nav-background: $black;
 $text-nav-color: $white;
+
+//Clock Component
+$clock-text-color: $white;
+$clock-bg-color: $light-blue;
+$clock-border-color: $darker-blue;
